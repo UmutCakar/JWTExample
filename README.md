@@ -5,7 +5,7 @@
 When application run, first of all we set the configuration via  `appsettings.json`. After that, if you have special environment variable, we set them all too.
 
 
-### 1.1. AppSettings.json
+### 1. AppSettings.json
 
 `appsettings.json`
 ```json
@@ -26,7 +26,7 @@ When application run, first of all we set the configuration via  `appsettings.js
 ## 2. Run
 
 ```
-$ cd LiveX.Panel
+$ cd JWTExample
 $ dotnet restore
 $ dotnet watch run
 ```
