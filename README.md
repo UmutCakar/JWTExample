@@ -1,5 +1,11 @@
 # .Net Core Web Api JWT Authentication and swagger
 
+Url: localhost:port/swagger
+
+Test:
+	Username: Umut
+	Password: Password@123
+
 ## 1. Configuration
 
 When application run, first of all we set the configuration via  `appsettings.json`. After that, if you have special environment variable, we set them all too.
