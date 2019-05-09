@@ -30,3 +30,11 @@ $ cd JWTExample
 $ dotnet restore
 $ dotnet watch run
 ```
+
+## Tool Set
+
+* Asp.Net Core 2.2
+* ASP.NET Core Identity
+* Entity Framework Core 2.2
+* MySql
+* Swagger
